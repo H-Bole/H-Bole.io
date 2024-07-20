@@ -31,21 +31,21 @@ Java, Git
 ## 游戏展示
 
 ### 物体系统
-<img alt="物体系统" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/blob/main/U3D/Phy1.jpg" width="900" />
+<img alt="物体系统" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/U3D/Phy1.jpg" width="900" />
 
 ### UI系统
-<img alt="UI系统1" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/blob/main/U3D/UI1.jpg" width="900" />
-<img alt="UI系统2" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/blob/main/U3D/UI2.jpg" width="900" />
-<img alt="UI系统3" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/blob/main/U3D/UI3.jpg" width="900" />
-<img alt="UI系统4" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/blob/main/U3D/UI4.jpg" width="900" />
+<img alt="UI系统1" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/U3D/UI1.jpg" width="900" />
+<img alt="UI系统2" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/U3D/UI2.jpg" width="900" />
+<img alt="UI系统3" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/U3D/UI3.jpg" width="900" />
+<img alt="UI系统4" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/U3D/UI4.jpg" width="900" />
 
 ### 动画系统
-<img alt="动画系统1" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/blob/main/U3D/AN1.gif" width="900" />
-<img alt="动画系统2" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/blob/main/U3D/AN2.gif" width="900" />
-<img alt="动画系统3" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/blob/main/U3D/AN3.gif" width="900" />
+<img alt="动画系统1" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/U3D/AN1.gif" width="900" />
+<img alt="动画系统2" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/U3D/AN2.gif" width="900" />
+<img alt="动画系统3" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/U3D/AN3.gif" width="900" />
 
 ### 自动寻路
-<img alt="自动寻路" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/blob/main/U3D/AN4.gif" width="900" />
+<img alt="自动寻路" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/U3D/AN4.gif" width="900" />
 
 ## GitHub 链接
 [https://github.com/H-Bole/U3D_Mystery_Adventure](https://github.com/H-Bole/U3D_Mystery_Adventure)
