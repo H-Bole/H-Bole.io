@@ -1,0 +1,2 @@
+# Unity delivery artifacts must preserve the frozen file bytes.
+unity/SleepyDemos/TapTap/** -text
